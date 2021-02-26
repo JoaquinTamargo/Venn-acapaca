@@ -1,0 +1,12 @@
+name: ejercicio4
+title: ejercicio4
+username:
+account: tamargojoaquin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3692064
+bundleId: 4276383
+url: https://tamargojoaquin.shinyapps.io/ejercicio4/
+when: 1614363883.38236
+asMultiple: FALSE
+asStatic: FALSE
